@@ -1,0 +1,24 @@
+.item-box {
+    text-align: center;
+}
+
+.title {
+    font-size: 25px;
+    font-style: italic;
+}
+.poster-image {
+    border-radius: 10px;
+}
+
+.info-list {
+
+}
+
+.info-list li {
+    text-align: center;
+    /*border: 1px solid dodgerblue;*/
+}
+
+.info-list li span {
+    /*border: 1px solid;*/
+}
